@@ -2,7 +2,7 @@
 
 namespace Contracts
 {
-    public interface ILoggerManger
+    public interface ILoggerManager
     {
         void LogInfo(string message);
         void LogDebug(string message);
