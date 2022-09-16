@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Contracts
+{
+    public interface ILoggerManger
+    {
+        void LogInfo(string message);
+        void LogDebug(string message);
+        void LogWarn(string message);
+        void LogError(string message);
+    }
+}

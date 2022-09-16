@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xOBSCX0HjpagkEZnv2/vKETinTk5ltrNZo7GX9O9cWo+s2JshhenzMk/nlrzWO1KrwVe92tGm969FdS0L7CQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shoot\\source\\repos\\TrainingProgram\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoot\\.nuget\\packages\\nlog\\4.7.5\\nlog.4.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
