@@ -17,3 +17,10 @@ C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\obj\Debug\netcoreapp
 C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\obj\Debug\netcoreapp3.1\TrainingProgram.dll
 C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\obj\Debug\netcoreapp3.1\TrainingProgram.pdb
 C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\obj\Debug\netcoreapp3.1\TrainingProgram.genruntimeconfig.cache
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\bin\Debug\netcoreapp3.1\Nlog.config
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\shoot\source\repos\TrainingProgram\TrainingProgram\obj\Debug\netcoreapp3.1\TrainingProgram.csproj.CopyComplete

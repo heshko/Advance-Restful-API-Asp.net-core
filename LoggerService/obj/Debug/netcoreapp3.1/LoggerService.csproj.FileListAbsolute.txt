@@ -1,0 +1,13 @@
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\shoot\source\repos\TrainingProgram\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
